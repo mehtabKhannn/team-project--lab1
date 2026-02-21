@@ -1,1 +1,3 @@
--e# Team Project Outline\n1. Collaborator A Feature\n2. Collaborator B Feature
+# Final Team Project Outline - B version is best!
+1. Collaborator A Feature
+2. Collaborator B Feature
